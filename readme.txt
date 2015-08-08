@@ -3,8 +3,8 @@ Contributors: Mudit Kumawat
 Tags:  wp-admin , replace logo, repalce wp-admin logo, admin logo
 Donate link: http://help4cms.com/
 Requires at least: 3.0
-Tested up to: 4.2.2
-Stable tag: 4.2.2
+Tested up to: 4.2.4
+Stable tag: 4.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
